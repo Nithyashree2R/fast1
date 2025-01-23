@@ -1,0 +1,7 @@
+fastapi==0.100.0
+uvicorn==0.22.0
+pydantic==1.10.12
+werkzeug==2.3.7
+python-jose==3.3.0  # Used for JWT creation and decoding
+pyjwt==2.8.0
+python-multipart==0.0.6 # Required for handling form data
